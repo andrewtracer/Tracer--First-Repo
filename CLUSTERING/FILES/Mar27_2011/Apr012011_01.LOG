@@ -1,0 +1,2171 @@
+16:11:40: PA3
+ Soft: A03= 113.179
+ Hard: A03= 107.676
+16:11:49: SET3=107.676
+16:11:51: PA3
+ Soft: A03= 107.676
+ Hard: A03= 107.676
+16:11:53: D3=0
+16:13:25: D4=50.522
+16:13:53: PA3
+ Soft: A03=   0.000
+ Hard: A03=   0.000
+16:13:53: PA4
+ Soft: A04=  50.522
+ Hard: A04=  50.522
+16:16:23: D3I90
+16:18:48: D3I2
+16:19:36: D3I-.5
+16:22:32: PA3
+ Soft: A03=  91.500
+ Hard: A03=  91.500
+16:22:34: INIT3=0
+16:22:36: SET3=0
+16:22:37: PA3
+ Soft: A03=   0.000
+ Hard: A03=   0.000
+16:22:37: PU
+ U01=  50.000  U02=  56.000  U03= 150.000  U04= 125.000  U05= 120.000
+ U06= 120.000  U07= 360.000  U08= 180.000  U09=  10.000  U10=   4.000
+ U11=   5.000  U12=   0.000  U13=   4.000  U14=  75.000  U15=  70.000
+ U24= 360.000  U25= 180.000
+16:22:41: U8=17
+16:22:43: L8=-17
+16:22:46: U7=17
+16:22:49: L7=-17
+16:22:50: PA3
+ Soft: A03=   0.000
+ Hard: A03=   0.000
+16:23:46: D4=24.63
+16:24:23: D3=12.32
+16:31:10: FP3,4,.2,-1
+ File created: fpx03084.bt9
+ Find_peak:  Apr  1 2011 16:31
+ Angle no =  3,  Range = [ 148.000 ... 152.000 ],  Step =   0.200, Mon =      -1
+16:31:41: Motor  3 at    150.200           would exceed upper limit.
+16:31:41: Find_Peak aborted
+16:32:03: U3=300
+16:32:07: FP3,4,.2,-1
+ File created: fpx03085.bt9
+ Find_peak:  Apr  1 2011 16:32
+ Angle no =  3,  Range = [ 148.000 ... 152.000 ],  Step =   0.200, Mon =      -1
+ Peak found at  150.200  with an intensity of        222
+  Fit Results:   BG =      2.187
+             Height =    246.646
+                Pos =    150.2620
+              Width =      0.2946
+ Driving to fitted peak position!
+16:38:28: D4=17.335
+16:38:50: D3=8.7
+16:49:49: D3=12.6
+16:49:57: FP3,3,.1,-1
+ File created: fpx03086.bt9
+ Find_peak:  Apr  1 2011 16:49
+ Angle no =  3,  Range = [  11.100 ...  14.100 ],  Step =   0.100, Mon =      -1
+ Peak found at   12.400  with an intensity of        859
+  Fit Results:   BG =      2.230
+             Height =    954.556
+                Pos =     12.4339
+              Width =      0.2431
+ Driving to fitted peak position!
+16:53:04: PA7
+ Soft: A07=  -0.080
+ Hard: A07=  -0.080
+16:53:08: D7=0
+16:53:20: FP8,8,.5,-1
+ File created: fpx08001.bt9
+ Find_peak:  Apr  1 2011 16:53
+ Angle no =  8,  Range = [  -4.000 ...   4.000 ],  Step =   0.500, Mon =      -1
+ Peak found at    0.000  with an intensity of        836
+  Fit Results:   BG =  -1038.741
+             Height =   1848.057
+                Pos =      1.4185
+              Width =     13.7737
+ Driving to fitted peak position!
+16:58:59: PA3
+ Soft: A03=  12.434
+ Hard: A03=  12.434
+16:58:59: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+16:59:08: PA3
+ Soft: A03=  12.434
+ Hard: A03=  12.434
+16:59:34: PA8
+ Soft: A08=   1.418
+ Hard: A08=   1.418
+17:01:29: D4=24.64
+17:05:45: PA3
+ Soft: A03=  12.434
+ Hard: A03=  12.434
+17:05:50: SET3=107.562
+17:05:50: PA3
+ Soft: A03= 107.562
+ Hard: A03=  12.434
+17:06:14: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+17:06:19: PA3
+ Soft: A03= 107.562
+ Hard: A03=  12.434
+17:06:25: PA4
+ Soft: A04=  24.640
+ Hard: A04=  24.640
+17:18:21: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.000, 0.500, 0.500)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+ **** WARNING ****  Monitor rate < 5!!  Check if beam tube is open!
+17:24:30: D3I-25
+17:24:54: D3I50
+17:25:39: PA7
+ Soft: A07=   0.000
+ Hard: A07=   0.000
+17:25:51: PA3
+ Soft: A03=  37.319
+ Hard: A03= -57.809
+17:26:06: D7=4
+17:31:11: D7=8
+17:33:48: D7=12
+17:35:27: D7=-4
+17:40:57: PA3
+ Soft: A03= -13.000
+ Hard: A03=-108.128
+17:41:53: D3=18
+17:42:08: FP3,4,.1,-1
+ File created: fpx03087.bt9
+ Find_peak:  Apr  1 2011 17:42
+ Angle no =  3,  Range = [  16.000 ...  20.000 ],  Step =   0.100, Mon =      -1
+ Peak found at   17.700  with an intensity of        268
+  Fit Results:   BG =      3.303
+             Height =    235.438
+                Pos =     17.7264
+              Width =      0.2659
+ Driving to fitted peak position!
+17:43:22: FP8,10,1,-1
+ File created: fpx08002.bt9
+ Find_peak:  Apr  1 2011 17:43
+ Angle no =  8,  Range = [  -3.582 ...   6.418 ],  Step =   1.000, Mon =      -1
+ Peak found at    1.418  with an intensity of        263
+  Fit Results:   BG =     44.520
+             Height =    218.685
+                Pos =      0.5570
+              Width =      5.5982
+ Driving to fitted peak position!
+17:50:09: FP3,2,.1,-1
+ File created: fpx03088.bt9
+ Find_peak:  Apr  1 2011 17:50
+ Angle no =  3,  Range = [  16.726 ...  18.726 ],  Step =   0.100, Mon =      -1
+ Peak found at   17.726  with an intensity of        249
+  Fit Results:   BG =      3.551
+             Height =    227.967
+                Pos =     17.7428
+              Width =      0.2602
+ Driving to fitted peak position!
+17:51:00: D15=30
+17:51:08: D14=30
+17:51:20: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+17:51:21: PA3
+ Soft: A03=  17.743
+ Hard: A03= -77.385
+17:51:29: SET3=12.319
+17:51:30: PA3
+ Soft: A03=  12.319
+ Hard: A03= -77.385
+17:51:45: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.500, 0.000, 0.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+17:53:03: FP3,2,.1,-1
+ File created: fpx03089.bt9
+ Find_peak:  Apr  1 2011 17:53
+ Angle no =  3,  Range = [  97.677 ...  99.677 ],  Step =   0.100, Mon =      -1
+ Peak found at   98.677  with an intensity of       1956
+  Fit Results:   BG =      8.781
+             Height =   1839.883
+                Pos =     98.7347
+              Width =      0.2896
+ Driving to fitted peak position!
+17:53:53: PA8
+ Soft: A08=   0.557
+ Hard: A08=   0.557
+17:53:58: PA7
+ Soft: A07=  -4.000
+ Hard: A07=  -4.000
+17:54:25: FP7,8,.5,-1
+ File created: fpx07001.bt9
+ Find_peak:  Apr  1 2011 17:54
+ Angle no =  7,  Range = [  -8.000 ...   0.000 ],  Step =   0.500, Mon =      -1
+ Peak found at   -6.000  with an intensity of       2082
+  Fit Results:   BG =   1948.323
+             Height =     76.093
+                Pos =     -5.9272
+              Width =      1.9803
+ Driving to fitted peak position!
+18:00:03: D7=-4.5
+18:00:32: FP3,2,.1,-1
+ File created: fpx03090.bt9
+ Find_peak:  Apr  1 2011 18:00
+ Angle no =  3,  Range = [  97.735 ...  99.735 ],  Step =   0.100, Mon =      -1
+ Peak found at   98.735  with an intensity of       1971
+  Fit Results:   BG =      6.200
+             Height =   1916.728
+                Pos =     98.7484
+              Width =      0.2899
+ Driving to fitted peak position!
+18:01:32: PA3
+ Soft: A03=  98.748
+ Hard: A03=   9.044
+18:01:35: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+18:01:36: PA3
+ Soft: A03=  98.748
+ Hard: A03=   9.044
+18:01:43: SET3=98.677
+18:01:45: PA3
+ Soft: A03=  98.677
+ Hard: A03=   9.044
+18:02:20: DQ 1,1,1
+18:02:20: Parameters used:   3.9091 3.9091 3.9091     011    100
+18:02:20:                    90.000 90.000 90.000
+18:02:20: Driving to Q = ( 1.0000, 1.0000, 1.0000)    A3=  66.772  A4=  63.016
+18:03:25: FP3,2,.1,-1
+ File created: fpx03091.bt9
+ Find_peak:  Apr  1 2011 18:03
+ Angle no =  3,  Range = [  65.772 ...  67.772 ],  Step =   0.100, Mon =      -1
+ Peak found at   66.672  with an intensity of       2639
+  Fit Results:   BG =     15.558
+             Height =   2671.842
+                Pos =     66.7247
+              Width =      0.3693
+ Driving to fitted peak position!
+18:04:54: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+18:04:55: PA3
+ Soft: A03=  66.725
+ Hard: A03= -22.908
+18:05:12: SET3=66.772
+18:05:13: PA3
+ Soft: A03=  66.772
+ Hard: A03= -22.908
+18:32:35: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 1.000, 1.000, 0.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+18:33:09: FP3,2,.1,-1
+ File created: fpx03092.bt9
+ Find_peak:  Apr  1 2011 18:33
+ Angle no =  3,  Range = [  78.995 ...  80.995 ],  Step =   0.100, Mon =      -1
+ No peak found   ===>  driving to start position!
+18:34:09: DQ 1,1,1
+18:34:09: Parameters used:   3.9091 3.9091 3.9091     011    100
+18:34:09:                    90.000 90.000 90.000
+18:34:09: Driving to Q = ( 1.0000, 1.0000, 1.0000)    A3=  66.772  A4=  63.016
+18:34:48: FP3,2,.1,-1
+ File created: fpx03093.bt9
+ Find_peak:  Apr  1 2011 18:34
+ Angle no =  3,  Range = [  65.772 ...  67.772 ],  Step =   0.100, Mon =      -1
+ Peak found at   66.672  with an intensity of        254
+  Fit Results:   BG =      1.057
+             Height =    277.058
+                Pos =     66.7182
+              Width =      0.3076
+ Driving to fitted peak position!
+18:35:32: PA7
+ Soft: A07=  -4.500
+ Hard: A07=  -4.500
+18:35:34: PA8
+ Soft: A08=   0.557
+ Hard: A08=   0.557
+18:36:04: PA8
+ Soft: A08=   0.557
+ Hard: A08=   0.557
+18:36:16: DQ 0,0,1
+18:36:16: Your Q-Vector does not lie in the scattering plane!!!
+18:36:20: DQ 1,0,0
+18:36:20: Parameters used:   3.9091 3.9091 3.9091     011    100
+18:36:20:                    90.000 90.000 90.000
+18:36:20: Driving to Q = ( 1.0000, 0.0000, 0.0000)    A3=  107.56  A4=  35.123
+18:36:58: FP3,3,.1,-1
+ File created: fpx03094.bt9
+ Find_peak:  Apr  1 2011 18:36
+ Angle no =  3,  Range = [ 106.062 ... 109.062 ],  Step =   0.100, Mon =      -1
+ Peak found at  107.562  with an intensity of       1801
+  Fit Results:   BG =      0.840
+             Height =   1748.903
+                Pos =    107.5667
+              Width =      0.2197
+ Driving to fitted peak position!
+18:38:07: FP7,10,1,-1
+ File created: fpx07002.bt9
+ Find_peak:  Apr  1 2011 18:38
+ Angle no =  7,  Range = [  -9.500 ...   0.500 ],  Step =   1.000, Mon =      -1
+ No peak found   ===>  driving to start position!
+18:45:18:  
+18:45:18:  
+18:45:24: PA3
+ Soft: A03= 107.567
+ Hard: A03=  17.886
+18:45:30: PA15
+ Soft: A15=  30.000
+ Hard: A15=  29.999
+18:45:37: D14=19
+18:45:42: FP14,38,2,-1
+ File created: fpx14002.bt9
+ Find_peak:  Apr  1 2011 18:45
+ Angle no = 14,  Range = [   1.000 ...  39.000 ],  Step =   2.000, Mon =      -1
+ Peak found at   33.000  with an intensity of       1851
+18:47:57: D14=25
+18:48:03: D15=19
+18:48:07: FP15,38,2,-1
+ File created: fpx15002.bt9
+ Find_peak:  Apr  1 2011 18:48
+ Angle no = 15,  Range = [   1.000 ...  39.000 ],  Step =   2.000, Mon =      -1
+  **** ABORT during Find_Peak ****
+18:48:44:   Request aborted by Contrl_A
+18:48:50: D15=20
+18:48:59: DQ 1,1,0
+18:48:59: Your Q-Vector does not lie in the scattering plane!!!
+18:49:03: DQ 0,1,1
+18:49:03: Parameters used:   3.9091 3.9091 3.9091     011    100
+18:49:03:                    90.000 90.000 90.000
+18:49:03: Driving to Q = ( 0.0000, 1.0000, 1.0000)    A3=  25.259  A4=  50.518
+18:50:01: FP3,3,.1,-2
+ File created: fpx03095.bt9
+ Find_peak:  Apr  1 2011 18:50
+ Angle no =  3,  Range = [  23.759 ...  26.759 ],  Step =   0.100, Mon =      -2
+ Peak found at   25.259  with an intensity of        252
+  Fit Results:   BG =      0.838
+             Height =    264.031
+                Pos =     25.2384
+              Width =      0.2707
+ Driving to fitted peak position!
+18:53:02: PA14
+ Soft: A14=  25.000
+ Hard: A14=  25.000
+18:53:03: PA15
+ Soft: A15=  20.000
+ Hard: A15=  19.999
+18:53:37: D15=19
+18:53:39: FP15,38,2,-1
+ File created: fpx15003.bt9
+ Find_peak:  Apr  1 2011 18:53
+ Angle no = 15,  Range = [   1.000 ...  39.000 ],  Step =   2.000, Mon =      -1
+  **** ABORT during Find_Peak ****
+18:54:15:   Request aborted by Contrl_A
+18:54:17: D15=20
+18:54:38: FP8,8,1,-1
+ File created: fpx08003.bt9
+ Find_peak:  Apr  1 2011 18:54
+ Angle no =  8,  Range = [  -3.443 ...   4.557 ],  Step =   1.000, Mon =      -1
+ Peak found at   -1.443  with an intensity of        142
+  Fit Results:   BG =    -65.757
+             Height =    196.257
+                Pos =     -0.4127
+              Width =     13.4041
+ Driving to fitted peak position!
+19:00:44: FP8,10,1,-5
+ File created: fpx08004.bt9
+ Find_peak:  Apr  1 2011 19:00
+ Angle no =  8,  Range = [  -5.413 ...   4.587 ],  Step =   1.000, Mon =      -5
+ Peak found at   -0.413  with an intensity of        659
+  Fit Results:   BG =  -3984.356
+             Height =   4632.680
+                Pos =     -0.1579
+              Width =     30.4385
+ Driving to fitted peak position!
+19:08:41: FP3,2,.1,-3
+ File created: fpx03096.bt9
+ Find_peak:  Apr  1 2011 19:08
+ Angle no =  3,  Range = [  24.238 ...  26.238 ],  Step =   0.100, Mon =      -3
+ Peak found at   25.238  with an intensity of        415
+  Fit Results:   BG =      1.694
+             Height =    440.990
+                Pos =     25.2470
+              Width =      0.2523
+ Driving to fitted peak position!
+19:10:12: PA3
+ Soft: A03=  25.247
+ Hard: A03= -64.433
+19:10:14: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+19:10:20: PA4
+ Soft: A04=  50.518
+ Hard: A04=  50.518
+19:10:51: PA3
+ Soft: A03=  25.247
+ Hard: A03= -64.433
+19:11:09: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+19:11:11: PA3
+ Soft: A03=  25.247
+ Hard: A03= -64.433
+19:11:38: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+19:11:41: PA3
+ Soft: A03=  25.247
+ Hard: A03= -64.433
+19:11:46: SET3=25.259
+19:11:46: PA3
+ Soft: A03=  25.259
+ Hard: A03= -64.433
+19:11:47: PA4
+ Soft: A04=  50.518
+ Hard: A04=  50.518
+19:12:11: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 1.000, 1.000, 1.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+19:12:49: FP3,2,.1,-1
+ File created: fpx03097.bt9
+ Find_peak:  Apr  1 2011 19:12
+ Angle no =  3,  Range = [  65.772 ...  67.772 ],  Step =   0.100, Mon =      -1
+ Peak found at   66.772  with an intensity of        739
+  Fit Results:   BG =      1.530
+             Height =    748.387
+                Pos =     66.8009
+              Width =      0.3255
+ Driving to fitted peak position!
+19:13:55: PA7
+ Soft: A07=  -4.500
+ Hard: A07=  -4.500
+19:13:56: PA8
+ Soft: A08=  -0.158
+ Hard: A08=  -0.158
+19:14:32: FP7,12,1,-1
+ File created: fpx07003.bt9
+ Find_peak:  Apr  1 2011 19:14
+ Angle no =  7,  Range = [ -10.500 ...   1.500 ],  Step =   1.000, Mon =      -1
+ Peak found at   -6.500  with an intensity of       1875
+  Fit Results:   BG =     -2.166
+             Height =   2194.272
+                Pos =     -6.2120
+              Width =      2.4262
+ Driving to fitted peak position!
+19:21:36: FP3,2,.1,-1
+ File created: fpx03098.bt9
+ Find_peak:  Apr  1 2011 19:21
+ Angle no =  3,  Range = [  65.801 ...  67.801 ],  Step =   0.100, Mon =      -1
+ Peak found at   66.801  with an intensity of       1832
+  Fit Results:   BG =      3.911
+             Height =   1808.983
+                Pos =     66.7865
+              Width =      0.3280
+ Driving to fitted peak position!
+19:22:36: FP8,12,1,-1
+ File created: fpx08005.bt9
+ Find_peak:  Apr  1 2011 19:22
+ Angle no =  8,  Range = [  -6.158 ...   5.842 ],  Step =   1.000, Mon =      -1
+ Peak found at   -1.158  with an intensity of       1632
+  Fit Results:   BG =     -4.060
+             Height =   1920.188
+                Pos =     -0.2727
+              Width =      3.4979
+ Driving to fitted peak position!
+19:30:31: FP3,2,.1,-1
+ File created: fpx03099.bt9
+ Find_peak:  Apr  1 2011 19:30
+ Angle no =  3,  Range = [  65.786 ...  67.786 ],  Step =   0.100, Mon =      -1
+ Peak found at   66.786  with an intensity of       1983
+  Fit Results:   BG =      4.986
+             Height =   2014.803
+                Pos =     66.7842
+              Width =      0.3122
+ Driving to fitted peak position!
+19:31:24: PA3
+ Soft: A03=  66.784
+ Hard: A03= -22.908
+19:31:26: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+19:31:27: PA3
+ Soft: A03=  66.784
+ Hard: A03= -22.908
+19:31:30: SET3=66.772
+19:31:31: PA7
+ Soft: A07=  -6.212
+ Hard: A07=  -6.212
+19:31:33: PA8
+ Soft: A08=  -0.273
+ Hard: A08=  -0.273
+19:32:12: RSF REALMESH6.COM
+19:32:12: RSF: BUFOPQ20HC=.5000
+19:32:12: RSF: RQ20
+19:32:12: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs001.bt9  Apr  1 2011 19:32
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.500, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs001.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+19:37:04: RSF: BUFOPQ20HC=.4960
+19:37:04: RSF: RQ20
+19:37:04: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs002.bt9  Apr  1 2011 19:37
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.496, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs002.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+19:41:25: RSF: BUFOPQ20HC=.4920
+19:41:25: RSF: RQ20
+19:41:25: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs003.bt9  Apr  1 2011 19:41
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.492, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs003.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+19:45:44: RSF: BUFOPQ20HC=.5080
+19:45:44: RSF: RQ20
+19:45:44: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs004.bt9  Apr  1 2011 19:45
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs004.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+19:50:03: RSF: BUFOPQ20HC=.5080
+19:50:03: RSF: RQ20
+19:50:03: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs005.bt9  Apr  1 2011 19:50
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs005.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+19:54:22: RSF: BUFOPQ20HC=.4880
+19:54:22: RSF: RQ20
+19:54:22: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs006.bt9  Apr  1 2011 19:54
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.488, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs006.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+19:58:43: RSF: BUFOPQ20HC=.4800
+19:58:43: RSF: RQ20
+19:58:43: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs007.bt9  Apr  1 2011 19:58
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.480, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs007.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:03:03: RSF: BUFOPQ20HC=.4840
+20:03:03: RSF: RQ20
+20:03:03: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs008.bt9  Apr  1 2011 20:03
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.484, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs008.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:07:23: RSF: BUFOPQ20HC=.4860
+20:07:23: RSF: RQ20
+20:07:23: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs009.bt9  Apr  1 2011 20:07
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.486, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs009.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:11:42: RSF: BUFOPQ20HC=.4900
+20:11:42: RSF: RQ20
+20:11:42: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs010.bt9  Apr  1 2011 20:11
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.490, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs010.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:16:02: RSF: BUFOPQ20HC=.4980
+20:16:02: RSF: RQ20
+20:16:02: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs011.bt9  Apr  1 2011 20:16
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.498, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs011.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:20:23: RSF: BUFOPQ20HC=.4820
+20:20:23: RSF: RQ20
+20:20:23: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs012.bt9  Apr  1 2011 20:20
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.482, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs012.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:24:44: RSF: BUFOPQ20HC=.5020
+20:24:44: RSF: RQ20
+20:24:44: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs013.bt9  Apr  1 2011 20:24
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.502, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs013.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:29:02: RSF: BUFOPQ20HC=.5040
+20:29:02: RSF: RQ20
+20:29:02: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs014.bt9  Apr  1 2011 20:29
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.504, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs014.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:33:21: RSF: BUFOPQ20HC=.5060
+20:33:21: RSF: RQ20
+20:33:21: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs015.bt9  Apr  1 2011 20:33
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.506, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs015.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:37:41: RSF: BUFOPQ20HC=.4700
+20:37:41: RSF: RQ20
+20:37:41: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs016.bt9  Apr  1 2011 20:37
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.470, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs016.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:42:03: RSF: BUFOPQ20HC=.4720
+20:42:03: RSF: RQ20
+20:42:03: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs017.bt9  Apr  1 2011 20:42
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.472, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs017.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:46:23: RSF: BUFOPQ20HC=.4740
+20:46:23: RSF: RQ20
+20:46:23: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs018.bt9  Apr  1 2011 20:46
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.474, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs018.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:50:42: RSF: BUFOPQ20HC=.4760
+20:50:42: RSF: RQ20
+20:50:42: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs019.bt9  Apr  1 2011 20:50
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.476, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs019.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:55:01: RSF: BUFOPQ20HC=.4780
+20:55:01: RSF: RQ20
+20:55:01: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs020.bt9  Apr  1 2011 20:55
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.478, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs020.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+20:59:21: RSF: BUFOPQ20HC=.5100
+20:59:21: RSF: RQ20
+20:59:21: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs021.bt9  Apr  1 2011 20:59
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.510, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs021.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+21:03:39: RSF: BUFOPQ20HC=.5120
+21:03:39: RSF: RQ20
+21:03:39: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs022.bt9  Apr  1 2011 21:03
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.512, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs022.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+21:08:00: RSF: BUFOPQ20HC=.5140
+21:08:00: RSF: RQ20
+21:08:00: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs023.bt9  Apr  1 2011 21:08
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.514, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs023.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+21:12:21: RSF: BUFOPQ20HC=.5160
+21:12:21: RSF: RQ20
+21:12:21: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs024.bt9  Apr  1 2011 21:12
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.516, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs024.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+21:16:41: RSF: BUFOPQ20HC=.5180
+21:16:41: RSF: RQ20
+21:16:41: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshs025.bt9  Apr  1 2011 21:16
+ QBuffer 20:  meshs 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.518, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshs025.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+21:21:00: RSF: BUFOPQ20MON=50000
+21:21:00: Command sequence terminated !
+21:21:20: DQ 1,1,1
+21:21:20: Parameters used:   3.9091 3.9091 3.9091     011    100
+21:21:20:                    90.000 90.000 90.000
+21:21:20: Driving to Q = ( 1.0000, 1.0000, 1.0000)    A3=  66.772  A4=  63.016
+21:27:12: DQ 0,1,1
+21:27:12: Parameters used:   3.9091 3.9091 3.9091     011    100
+21:27:12:                    90.000 90.000 90.000
+21:27:12: Driving to Q = ( 0.0000, 1.0000, 1.0000)    A3=  25.259  A4=  50.518
+21:29:10: PA3
+ Soft: A03=  25.259
+ Hard: A03= -64.421
+21:29:16: D3I180
+21:46:48: PA3
+ Soft: A03= 205.259
+ Hard: A03= 115.579
+21:47:06: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+21:47:20: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+21:47:56: DRQ20
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ Above angles did not exceed limits.
+21:48:15: DRQ20
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ Above angles did not exceed limits.
+21:49:51: RSF REALMESH6.COM
+21:49:51: RSF: BUFOPQ20HC=.5000
+21:49:51: RSF: RQ20
+21:49:51: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht001.bt9  Apr  1 2011 21:49
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.500,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht001.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+21:50:01:  **** ABORT during drive ****
+21:50:01:   Request aborted by Contrl_A
+21:50:01:  Sequence terminated by control A
+21:50:35: RSF REALMESH6.COM
+21:50:35: RSF: BUFOPQ20HC=-.5000
+21:50:35: RSF: RQ20
+21:50:35: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht001.bt9  Apr  1 2011 21:50
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.500,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht001.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+21:56:12: RSF: BUFOPQ20HC=-.4960
+21:56:12: RSF: RQ20
+21:56:12: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht002.bt9  Apr  1 2011 21:56
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.496,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht002.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:01:24: RSF: BUFOPQ20HC=-.4920
+22:01:24: RSF: RQ20
+22:01:24: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht003.bt9  Apr  1 2011 22:01
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.492,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht003.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:06:35: RSF: BUFOPQ20HC=-.5080
+22:06:35: RSF: RQ20
+22:06:35: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht004.bt9  Apr  1 2011 22:06
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht004.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:11:45: RSF: BUFOPQ20HC=-.5080
+22:11:45: RSF: RQ20
+22:11:45: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht005.bt9  Apr  1 2011 22:11
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht005.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:16:54: RSF: BUFOPQ20HC=-.4880
+22:16:54: RSF: RQ20
+22:16:54: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht006.bt9  Apr  1 2011 22:16
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.488,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht006.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:22:01: RSF: BUFOPQ20HC=-.4800
+22:22:01: RSF: RQ20
+22:22:01: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht007.bt9  Apr  1 2011 22:22
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.480,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht007.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:27:10: RSF: BUFOPQ20HC=-.4840
+22:27:10: RSF: RQ20
+22:27:10: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht008.bt9  Apr  1 2011 22:27
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.484,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht008.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:32:19: RSF: BUFOPQ20HC=-.4860
+22:32:19: RSF: RQ20
+22:32:19: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht009.bt9  Apr  1 2011 22:32
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.486,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht009.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:37:28: RSF: BUFOPQ20HC=-.4900
+22:37:28: RSF: RQ20
+22:37:28: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht010.bt9  Apr  1 2011 22:37
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.490,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht010.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:42:35: RSF: BUFOPQ20HC=-.4980
+22:42:35: RSF: RQ20
+22:42:35: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht011.bt9  Apr  1 2011 22:42
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.498,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht011.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:47:47: RSF: BUFOPQ20HC=-.4820
+22:47:48: RSF: RQ20
+22:47:48: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht012.bt9  Apr  1 2011 22:47
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.482,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht012.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:52:59: RSF: BUFOPQ20HC=-.5020
+22:52:59: RSF: RQ20
+22:52:59: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht013.bt9  Apr  1 2011 22:52
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.502,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht013.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+22:58:07: RSF: BUFOPQ20HC=-.5040
+22:58:07: RSF: RQ20
+22:58:07: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht014.bt9  Apr  1 2011 22:58
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.504,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht014.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:03:12: RSF: BUFOPQ20HC=-.5060
+23:03:13: RSF: RQ20
+23:03:13: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht015.bt9  Apr  1 2011 23:03
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.506,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht015.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:08:18: RSF: BUFOPQ20HC=-.4700
+23:08:18: RSF: RQ20
+23:08:18: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht016.bt9  Apr  1 2011 23:08
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.470,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht016.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:13:24: RSF: BUFOPQ20HC=-.4720
+23:13:24: RSF: RQ20
+23:13:24: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht017.bt9  Apr  1 2011 23:13
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.472,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht017.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:18:34: RSF: BUFOPQ20HC=-.4740
+23:18:34: RSF: RQ20
+23:18:34: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht018.bt9  Apr  1 2011 23:18
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.474,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht018.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:23:42: RSF: BUFOPQ20HC=-.4760
+23:23:42: RSF: RQ20
+23:23:42: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht019.bt9  Apr  1 2011 23:23
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.476,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht019.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:28:48: RSF: BUFOPQ20HC=-.4780
+23:28:48: RSF: RQ20
+23:28:48: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht020.bt9  Apr  1 2011 23:28
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.478,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht020.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:33:58: RSF: BUFOPQ20HC=-.5100
+23:33:58: RSF: RQ20
+23:33:58: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht021.bt9  Apr  1 2011 23:33
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.510,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht021.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:39:07: RSF: BUFOPQ20HC=-.5120
+23:39:07: RSF: RQ20
+23:39:07: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht022.bt9  Apr  1 2011 23:39
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.512,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht022.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:44:16: RSF: BUFOPQ20HC=-.5140
+23:44:16: RSF: RQ20
+23:44:16: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht023.bt9  Apr  1 2011 23:44
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.514,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht023.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:49:29: RSF: BUFOPQ20HC=-.5160
+23:49:29: RSF: RQ20
+23:49:29: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht024.bt9  Apr  1 2011 23:49
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.516,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht024.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:54:40: RSF: BUFOPQ20HC=-.5180
+23:54:40: RSF: RQ20
+23:54:40: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/mesht025.bt9  Apr  1 2011 23:54
+ QBuffer 20:  mesht 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.518,-0.496,-0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   25000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: mesht025.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+23:59:49: RSF: BUFOPQ20MON=50000
+23:59:49: Command sequence terminated !
+00:08:12: MRAT/S
+ Measuring for  5 seconds.  Please wait !
+    8095 counts in     5   second===> RATE =     1619 cps  or   97140 cpm.
+01:02:55: DQ 0,1,1
+01:02:55: Parameters used:   3.9091 3.9091 3.9091     011    100
+01:02:55:                    90.000 90.000 90.000
+01:02:55: Driving to Q = ( 0.0000, 1.0000, 1.0000)    A3=  385.26  A4=  50.518
+01:05:10: PA3
+ Soft: A03= 385.259
+ Hard: A03= 295.579
+01:05:21: PU
+ U01=  50.000  U02=  56.000  U03= 300.000  U04= 125.000  U05= 120.000
+ U06= 120.000  U07=  17.000  U08=  17.000  U09=  10.000  U10=   4.000
+ U11=   5.000  U12=   0.000  U13=   4.000  U14=  75.000  U15=  70.000
+ U24= 360.000  U25= 180.000
+01:05:25: PL
+ L01=   5.000  L02=  20.000  L03=-150.000  L04=  -5.000  L05= -21.000
+ L06=  -3.000  L07= -17.000  L08= -17.000  L09= -26.000  L10= -20.000
+ L11=   0.000  L12=   0.000  L13=  -4.000  L14=   0.000  L15=   0.000
+ L24=-360.000  L25=-180.000
+01:06:28: SPA3
+  Unrecognized command: SPA3
+01:06:30: PA3
+ Soft: A03= 385.259
+ Hard: A03= 295.579
+01:06:34: SET3=295.579
+01:06:35: PA3
+ Soft: A03= 295.579
+ Hard: A03= 295.579
+01:09:18: PU
+ U01=  50.000  U02=  56.000  U03= 300.000  U04= 125.000  U05= 120.000
+ U06= 120.000  U07=  17.000  U08=  17.000  U09=  10.000  U10=   4.000
+ U11=   5.000  U12=   0.000  U13=   4.000  U14=  75.000  U15=  70.000
+ U24= 360.000  U25= 180.000
+01:09:23: L3=0
+01:09:25: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+01:09:31: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.000, 1.000, 1.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+ **** WARNING ****  Monitor rate < 5!!  Check if beam tube is open!
+01:10:11:  **** ABORT during drive ****
+01:10:11:   Request aborted by Contrl_A
+01:10:16: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.000, 1.000, 1.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+ **** WARNING ****  Monitor rate < 5!!  Check if beam tube is open!
+01:13:54: PA3
+ Soft: A03=  25.259
+ Hard: A03=  25.259
+01:13:57: D3=0
+01:15:01: PA3
+ Soft: A03=   0.000
+ Hard: A03=   0.000
+01:15:58: D3=26.6
+01:47:47: D7=0
+01:49:52: D8=0
+01:51:18: D4=17.3554
+01:52:00: D3=-79.9
+01:52:00: Motor  3 at   -79.8998           would go beyond lower limit.
+ Drive not executed
+01:52:48: L3=-100
+01:52:49: PU
+ U01=  50.000  U02=  56.000  U03= 300.000  U04= 125.000  U05= 120.000
+ U06= 120.000  U07=  17.000  U08=  17.000  U09=  10.000  U10=   4.000
+ U11=   5.000  U12=   0.000  U13=   4.000  U14=  75.000  U15=  70.000
+ U24= 360.000  U25= 180.000
+01:52:56: U3=250
+01:52:59: D3=-79.9
+01:54:40: PA3
+ Soft: A03= -79.900
+ Hard: A03= -79.900
+02:00:47: PA3
+ Soft: A03= -79.900
+ Hard: A03= -79.900
+02:01:42: PA7
+ Soft: A07=   0.000
+ Hard: A07=   0.000
+02:01:43: PA8
+ Soft: A08=   0.000
+ Hard: A08=   0.000
+02:02:09: PL
+ L01=   5.000  L02=  20.000  L03=-100.000  L04=  -5.000  L05= -21.000
+ L06=  -3.000  L07= -17.000  L08= -17.000  L09= -26.000  L10= -20.000
+ L11=   0.000  L12=   0.000  L13=  -4.000  L14=   0.000  L15=   0.000
+ L24=-360.000  L25=-180.000
+02:03:56: D3=-81
+02:04:13: FP3,3,.1,-1
+ File created: fpx03100.bt9
+ Find_peak:  Apr  2 2011 02:04
+ Angle no =  3,  Range = [ -82.500 ... -79.500 ],  Step =   0.100, Mon =      -1
+ Peak found at  -81.400  with an intensity of        197
+  Fit Results:   BG =      2.286
+             Height =    231.655
+                Pos =    -81.4428
+              Width =      0.1637
+ Driving to fitted peak position!
+02:07:15: FP7,10,1,-1
+ File created: fpx07004.bt9
+ Find_peak:  Apr  2 2011 02:07
+ Angle no =  7,  Range = [  -5.000 ...   5.000 ],  Step =   1.000, Mon =      -1
+  **** ABORT during Find_Peak ****
+02:12:23:   Request aborted by Contrl_A
+02:13:00: FP7,10,1,-1
+ File created: fpx07005.bt9
+ Find_peak:  Apr  2 2011 02:13
+ Angle no =  7,  Range = [  -0.808 ...   9.191 ],  Step =   1.000, Mon =      -1
+ Peak found at    6.192  with an intensity of       1342
+  Fit Results:   BG =   -230.568
+             Height =   1560.908
+                Pos =      5.8220
+              Width =      8.5888
+ Driving to fitted peak position!
+02:16:49: FP3,2,.1,-1
+ File created: fpx03101.bt9
+ Find_peak:  Apr  2 2011 02:16
+ Angle no =  3,  Range = [ -82.443 ... -80.443 ],  Step =   0.100, Mon =      -1
+ Peak found at  -81.443  with an intensity of       1328
+  Fit Results:   BG =      1.917
+             Height =   1384.512
+                Pos =    -81.4640
+              Width =      0.1828
+ Driving to fitted peak position!
+02:17:53: PA3
+ Soft: A03= -81.464
+ Hard: A03= -81.464
+02:17:55: PA7
+ Soft: A07=   5.822
+ Hard: A07=   5.822
+02:18:18: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:18:24: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:18:28: PU
+ U01=  50.000  U02=  56.000  U03= 250.000  U04= 125.000  U05= 120.000
+ U06= 120.000  U07=  17.000  U08=  17.000  U09=  10.000  U10=   4.000
+ U11=   5.000  U12=   0.000  U13=   4.000  U14=  75.000  U15=  70.000
+ U24= 360.000  U25= 180.000
+02:18:29: PL
+ L01=   5.000  L02=  20.000  L03=-100.000  L04=  -5.000  L05= -21.000
+ L06=  -3.000  L07= -17.000  L08= -17.000  L09= -26.000  L10= -20.000
+ L11=   0.000  L12=   0.000  L13=  -4.000  L14=   0.000  L15=   0.000
+ L24=-360.000  L25=-180.000
+02:18:37: U3=30
+02:18:39: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+02:18:39: Motor  3 at    31.0000           would exceed upper limit.
+ WARNING: Angle limits exceeded in motors(s):   3
+02:19:16: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:20:41: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:20:43: PA3
+ Soft: A03= -81.464
+ Hard: A03= -81.464
+02:20:50: SET3=-81.323
+02:20:55: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:21:09: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.000, 0.500, 0.500)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+02:22:29: D3I2
+02:22:33: D3I-4
+02:22:39: D3I2
+02:22:42: PA3
+ Soft: A03=  12.319
+ Hard: A03=  12.178
+02:23:08: PA8
+ Soft: A08=   0.000
+ Hard: A08=   0.000
+02:23:12: D8=4
+02:23:33:   Request aborted by Contrl_A
+02:23:34: D3I1
+02:23:37: D3I-1
+02:23:42: D3I-1
+02:23:46: D3I1
+02:23:52: FP3,3,.1,-2
+ File created: fpx03102.bt9
+ Find_peak:  Apr  2 2011 02:23
+ Angle no =  3,  Range = [  10.819 ...  13.819 ],  Step =   0.100, Mon =      -2
+ Peak found at   12.519  with an intensity of        242
+  Fit Results:   BG =      3.129
+             Height =    299.173
+                Pos =     12.4714
+              Width =      0.1665
+ Driving to fitted peak position!
+02:25:22: FP8,10,1,-1
+ File created: fpx08006.bt9
+ Find_peak:  Apr  2 2011 02:25
+ Angle no =  8,  Range = [  -2.945 ...   7.055 ],  Step =   1.000, Mon =      -1
+ Peak found at    4.055  with an intensity of        291
+  Fit Results:   BG =     -1.337
+             Height =    289.836
+                Pos =      4.7225
+              Width =      4.5987
+ Driving to fitted peak position!
+02:28:50: FP3,2,.1,-1
+ File created: fpx03103.bt9
+ Find_peak:  Apr  2 2011 02:28
+ Angle no =  3,  Range = [  11.471 ...  13.471 ],  Step =   0.100, Mon =      -1
+ Peak found at   12.571  with an intensity of        242
+  Fit Results:   BG =      1.099
+             Height =    278.975
+                Pos =     12.5243
+              Width =      0.1689
+ Driving to fitted peak position!
+02:29:44: PA3
+ Soft: A03=  12.524
+ Hard: A03=  12.384
+02:29:45: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:29:48: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:29:48: PA3
+ Soft: A03=  12.524
+ Hard: A03=  12.384
+02:29:55: SET3=12.319
+02:29:56: PA3
+ Soft: A03=  12.319
+ Hard: A03=  12.384
+02:33:54: FP3,2,.1,-1
+ File created: fpx03104.bt9
+ Find_peak:  Apr  2 2011 02:33
+ Angle no =  3,  Range = [  11.319 ...  13.319 ],  Step =   0.100, Mon =      -1
+  **** ABORT during Find_Peak ****
+02:34:11:   Request aborted by Contrl_A
+02:34:27: RQ/NF 1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = ( 0.000, 1.000, 1.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+02:35:08: FP3,3,.1,-1
+ File created: fpx03105.bt9
+ Find_peak:  Apr  2 2011 02:35
+ Angle no =  3,  Range = [  23.759 ...  26.759 ],  Step =   0.100, Mon =      -1
+ Peak found at   25.259  with an intensity of        426
+  Fit Results:   BG =      0.640
+             Height =    404.022
+                Pos =     25.2995
+              Width =      0.2601
+ Driving to fitted peak position!
+02:36:46: FP8,10,1,-1
+ File created: fpx08007.bt9
+ Find_peak:  Apr  2 2011 02:36
+ Angle no =  8,  Range = [  -0.278 ...   9.722 ],  Step =   1.000, Mon =      -1
+ Peak found at    4.722  with an intensity of        429
+  Fit Results:   BG =      0.131
+             Height =    458.933
+                Pos =      5.1621
+              Width =      2.3542
+ Driving to fitted peak position!
+02:40:12: FP3,2,.1,-1
+ File created: fpx03106.bt9
+ Find_peak:  Apr  2 2011 02:40
+ Angle no =  3,  Range = [  24.299 ...  26.299 ],  Step =   0.100, Mon =      -1
+ Peak found at   25.199  with an intensity of        425
+  Fit Results:   BG =      0.451
+             Height =    451.593
+                Pos =     25.2498
+              Width =      0.2357
+ Driving to fitted peak position!
+02:41:02: PA3
+ Soft: A03=  25.250
+ Hard: A03=  25.314
+02:41:05: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:41:07: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:41:07: PA3
+ Soft: A03=  25.250
+ Hard: A03=  25.314
+02:41:11: SET3=25.259
+02:41:15: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:41:16: PA3
+ Soft: A03=  25.259
+ Hard: A03=  25.314
+02:41:38: D14=19
+02:41:42: FP14,38,2,-2
+ File created: fpx14003.bt9
+ Find_peak:  Apr  2 2011 02:41
+ Angle no = 14,  Range = [   1.000 ...  39.000 ],  Step =   2.000, Mon =      -2
+  **** ABORT during Find_Peak ****
+02:42:57:   Request aborted by Contrl_A
+02:43:08: D14=30
+02:43:12: PA3
+ Soft: A03=  25.259
+ Hard: A03=  25.314
+02:43:13: PA4
+ Soft: A04=  50.518
+ Hard: A04=  50.518
+02:43:15: PA3
+ Soft: A03=  25.259
+ Hard: A03=  25.314
+02:43:16: PA8
+ Soft: A08=   5.162
+ Hard: A08=   5.162
+02:43:52: D15=19
+02:43:59: FP15,38,2,-2
+ File created: fpx15004.bt9
+ Find_peak:  Apr  2 2011 02:43
+ Angle no = 15,  Range = [   1.000 ...  39.000 ],  Step =   2.000, Mon =      -2
+  **** ABORT during Find_Peak ****
+02:45:07:   Request aborted by Contrl_A
+02:45:09: D15=30
+02:45:13: PA14
+ Soft: A14=  30.000
+ Hard: A14=  30.000
+02:45:14: PA15
+ Soft: A15=  30.000
+ Hard: A15=  29.999
+02:46:13: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+02:46:13: Motor  3 at    31.0000           would exceed upper limit.
+ WARNING: Angle limits exceeded in motors(s):   3
+02:47:01: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:47:08: RQ/NF 2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-1.000, 0.000, 0.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+02:48:25: FP3,3,.1,-1
+ File created: fpx03107.bt9
+ Find_peak:  Apr  2 2011 02:48
+ Angle no =  3,  Range = [ -73.938 ... -70.938 ],  Step =   0.100, Mon =      -1
+ Peak found at  -72.438  with an intensity of       1920
+  Fit Results:   BG =      0.671
+             Height =   1911.218
+                Pos =    -72.4257
+              Width =      0.2309
+ Driving to fitted peak position!
+02:49:31: FP7,10,1,-1
+ File created: fpx07006.bt9
+ Find_peak:  Apr  2 2011 02:49
+ Angle no =  7,  Range = [   0.822 ...  10.822 ],  Step =   1.000, Mon =      -1
+ Peak found at    5.822  with an intensity of       1910
+  Fit Results:   BG =      0.283
+             Height =   1920.976
+                Pos =      5.8069
+              Width =      2.1339
+ Driving to fitted peak position!
+02:53:23: FP3,2,.1,-1
+ File created: fpx03108.bt9
+ Find_peak:  Apr  2 2011 02:53
+ Angle no =  3,  Range = [ -73.426 ... -71.426 ],  Step =   0.100, Mon =      -1
+ Peak found at  -72.426  with an intensity of       2009
+  Fit Results:   BG =      0.708
+             Height =   1944.005
+                Pos =    -72.4299
+              Width =      0.2213
+ Driving to fitted peak position!
+02:54:29: D15=19
+02:54:34: FP15,38,2,-2
+ File created: fpx15005.bt9
+ Find_peak:  Apr  2 2011 02:54
+ Angle no = 15,  Range = [   1.000 ...  39.000 ],  Step =   2.000, Mon =      -2
+  **** ABORT during Find_Peak ****
+02:55:34:   Request aborted by Contrl_A
+02:55:39: D15=30
+02:55:40: PA3
+ Soft: A03= -72.430
+ Hard: A03= -72.375
+02:55:42: PA7
+ Soft: A07=   5.807
+ Hard: A07=   5.807
+02:55:54: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:55:55: PA3
+ Soft: A03= -72.430
+ Hard: A03= -72.375
+02:56:20: RQ/NF 2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-1.000, 1.000, 1.000)      Q-step = (0.0000,0.0000,0.0000)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=       1  Prefac=   1  Type= TIME  #pts =   1
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+  WARNING: NO DATA FILE IS BEING MADE!!
+02:57:15: FP3,2,.1,-1
+ File created: fpx03109.bt9
+ Find_peak:  Apr  2 2011 02:57
+ Angle no =  3,  Range = [  -4.756 ...  -2.756 ],  Step =   0.100, Mon =      -1
+ Peak found at   -3.756  with an intensity of       1952
+  Fit Results:   BG =      3.386
+             Height =   1985.072
+                Pos =     -3.7114
+              Width =      0.3183
+ Driving to fitted peak position!
+02:58:26: PA3
+ Soft: A03=  -3.711
+ Hard: A03=  -3.656
+02:58:31: DRQ1
+ QBuffer  1:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:58:33: DRQ2
+ QBuffer  2:  lsplit 40-PG-10-S-PG-80 two axis mode
+ Above angles did not exceed limits.
+02:58:35: PA3
+ Soft: A03=  -3.711
+ Hard: A03=  -3.656
+02:58:43: SET3=-3.756
+02:58:43: PA3
+ Soft: A03=  -3.756
+ Hard: A03=  -3.656
+02:59:30: RSF REALMESH6.COM
+02:59:30: RSF: BUFOPQ20HC=-.5000
+02:59:30: RSF: RQ20
+02:59:30: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu001.bt9  Apr  2 2011 02:59
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.500, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu001.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:03:37: RSF: BUFOPQ20HC=-.4960
+03:03:37: RSF: RQ20
+03:03:37: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu002.bt9  Apr  2 2011 03:03
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.496, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu002.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:07:13: RSF: BUFOPQ20HC=-.4920
+03:07:13: RSF: RQ20
+03:07:13: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu003.bt9  Apr  2 2011 03:07
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.492, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu003.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:10:49: RSF: BUFOPQ20HC=-.5080
+03:10:49: RSF: RQ20
+03:10:49: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu004.bt9  Apr  2 2011 03:10
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu004.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:14:25: RSF: BUFOPQ20HC=-.5080
+03:14:25: RSF: RQ20
+03:14:25: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu005.bt9  Apr  2 2011 03:14
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu005.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:18:01: RSF: BUFOPQ20HC=-.4880
+03:18:01: RSF: RQ20
+03:18:01: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu006.bt9  Apr  2 2011 03:18
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.488, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu006.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:21:39: RSF: BUFOPQ20HC=-.4800
+03:21:39: RSF: RQ20
+03:21:39: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu007.bt9  Apr  2 2011 03:21
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.480, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu007.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:25:15: RSF: BUFOPQ20HC=-.4840
+03:25:15: RSF: RQ20
+03:25:15: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu008.bt9  Apr  2 2011 03:25
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.484, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu008.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:28:51: RSF: BUFOPQ20HC=-.4860
+03:28:51: RSF: RQ20
+03:28:51: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu009.bt9  Apr  2 2011 03:28
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.486, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu009.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:32:27: RSF: BUFOPQ20HC=-.4900
+03:32:27: RSF: RQ20
+03:32:27: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu010.bt9  Apr  2 2011 03:32
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.490, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu010.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:36:04: RSF: BUFOPQ20HC=-.4980
+03:36:04: RSF: RQ20
+03:36:04: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu011.bt9  Apr  2 2011 03:36
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.498, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu011.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:39:42: RSF: BUFOPQ20HC=-.4820
+03:39:42: RSF: RQ20
+03:39:42: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu012.bt9  Apr  2 2011 03:39
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.482, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu012.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:43:18: RSF: BUFOPQ20HC=-.5020
+03:43:18: RSF: RQ20
+03:43:18: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu013.bt9  Apr  2 2011 03:43
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.502, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu013.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:46:54: RSF: BUFOPQ20HC=-.5040
+03:46:54: RSF: RQ20
+03:46:54: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu014.bt9  Apr  2 2011 03:46
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.504, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu014.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:50:30: RSF: BUFOPQ20HC=-.5060
+03:50:30: RSF: RQ20
+03:50:30: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu015.bt9  Apr  2 2011 03:50
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.506, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu015.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:54:06: RSF: BUFOPQ20HC=-.4700
+03:54:06: RSF: RQ20
+03:54:06: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu016.bt9  Apr  2 2011 03:54
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.470, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu016.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+03:57:44: RSF: BUFOPQ20HC=-.4720
+03:57:44: RSF: RQ20
+03:57:44: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu017.bt9  Apr  2 2011 03:57
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.472, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu017.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:01:20: RSF: BUFOPQ20HC=-.4740
+04:01:20: RSF: RQ20
+04:01:20: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu018.bt9  Apr  2 2011 04:01
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.474, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu018.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:04:56: RSF: BUFOPQ20HC=-.4760
+04:04:56: RSF: RQ20
+04:04:56: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu019.bt9  Apr  2 2011 04:04
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.476, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu019.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:08:32: RSF: BUFOPQ20HC=-.4780
+04:08:32: RSF: RQ20
+04:08:32: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu020.bt9  Apr  2 2011 04:08
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.478, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu020.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:12:08: RSF: BUFOPQ20HC=-.5100
+04:12:08: RSF: RQ20
+04:12:08: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu021.bt9  Apr  2 2011 04:12
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.510, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu021.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:15:44: RSF: BUFOPQ20HC=-.5120
+04:15:44: RSF: RQ20
+04:15:44: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu022.bt9  Apr  2 2011 04:15
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.512, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu022.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:19:22: RSF: BUFOPQ20HC=-.5140
+04:19:22: RSF: RQ20
+04:19:22: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu023.bt9  Apr  2 2011 04:19
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.514, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu023.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:22:58: RSF: BUFOPQ20HC=-.5160
+04:22:58: RSF: RQ20
+04:22:58: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu024.bt9  Apr  2 2011 04:22
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.516, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu024.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:26:34: RSF: BUFOPQ20HC=-.5180
+04:26:34: RSF: RQ20
+04:26:34: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu025.bt9  Apr  2 2011 04:26
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.518, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   20000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu025.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:30:10: RSF: BUFOPQ20MON=50000
+04:30:10: RSF: BUFOPQ20HC=-.5000
+04:30:10: RSF: RQ20
+04:30:10: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu026.bt9  Apr  2 2011 04:30
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.500, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu026.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:37:50: RSF: BUFOPQ20HC=-.4960
+04:37:50: RSF: RQ20
+04:37:50: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu027.bt9  Apr  2 2011 04:37
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.496, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu027.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:45:30: RSF: BUFOPQ20HC=-.4920
+04:45:30: RSF: RQ20
+04:45:30: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu028.bt9  Apr  2 2011 04:45
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.492, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu028.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+04:53:08: RSF: BUFOPQ20HC=-.5080
+04:53:08: RSF: RQ20
+04:53:08: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu029.bt9  Apr  2 2011 04:53
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu029.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:00:44: RSF: BUFOPQ20HC=-.5080
+05:00:44: RSF: RQ20
+05:00:44: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu030.bt9  Apr  2 2011 05:00
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu030.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:08:21: RSF: BUFOPQ20HC=-.4880
+05:08:21: RSF: RQ20
+05:08:21: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu031.bt9  Apr  2 2011 05:08
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.488, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu031.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:15:59: RSF: BUFOPQ20HC=-.4800
+05:15:59: RSF: RQ20
+05:15:59: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu032.bt9  Apr  2 2011 05:15
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.480, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu032.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:23:36: RSF: BUFOPQ20HC=-.4840
+05:23:36: RSF: RQ20
+05:23:36: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu033.bt9  Apr  2 2011 05:23
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.484, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu033.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:31:13: RSF: BUFOPQ20HC=-.4860
+05:31:13: RSF: RQ20
+05:31:13: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu034.bt9  Apr  2 2011 05:31
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.486, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu034.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:38:50: RSF: BUFOPQ20HC=-.4900
+05:38:50: RSF: RQ20
+05:38:50: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu035.bt9  Apr  2 2011 05:38
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.490, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu035.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:46:27: RSF: BUFOPQ20HC=-.4980
+05:46:27: RSF: RQ20
+05:46:27: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu036.bt9  Apr  2 2011 05:46
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.498, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu036.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+05:54:06: RSF: BUFOPQ20HC=-.4820
+05:54:06: RSF: RQ20
+05:54:06: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu037.bt9  Apr  2 2011 05:54
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.482, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu037.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:01:42: RSF: BUFOPQ20HC=-.5020
+06:01:42: RSF: RQ20
+06:01:42: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu038.bt9  Apr  2 2011 06:01
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.502, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu038.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:09:18: RSF: BUFOPQ20HC=-.5040
+06:09:18: RSF: RQ20
+06:09:18: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu039.bt9  Apr  2 2011 06:09
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.504, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu039.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:16:54: RSF: BUFOPQ20HC=-.5060
+06:16:54: RSF: RQ20
+06:16:54: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu040.bt9  Apr  2 2011 06:16
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.506, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu040.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:24:31: RSF: BUFOPQ20HC=-.4700
+06:24:31: RSF: RQ20
+06:24:31: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu041.bt9  Apr  2 2011 06:24
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.470, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu041.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:32:11: RSF: BUFOPQ20HC=-.4720
+06:32:11: RSF: RQ20
+06:32:11: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu042.bt9  Apr  2 2011 06:32
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.472, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu042.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:39:49: RSF: BUFOPQ20HC=-.4740
+06:39:49: RSF: RQ20
+06:39:49: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu043.bt9  Apr  2 2011 06:39
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.474, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu043.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:47:27: RSF: BUFOPQ20HC=-.4760
+06:47:27: RSF: RQ20
+06:47:27: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu044.bt9  Apr  2 2011 06:47
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.476, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu044.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+06:55:04: RSF: BUFOPQ20HC=-.4780
+06:55:04: RSF: RQ20
+06:55:04: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu045.bt9  Apr  2 2011 06:55
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.478, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu045.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:02:42: RSF: BUFOPQ20HC=-.5100
+07:02:42: RSF: RQ20
+07:02:42: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu046.bt9  Apr  2 2011 07:02
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.510, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu046.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:10:16: RSF: BUFOPQ20HC=-.5120
+07:10:16: RSF: RQ20
+07:10:16: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu047.bt9  Apr  2 2011 07:10
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.512, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu047.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:17:54: RSF: BUFOPQ20HC=-.5140
+07:17:54: RSF: RQ20
+07:17:54: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu048.bt9  Apr  2 2011 07:17
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.514, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu048.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:25:32: RSF: BUFOPQ20HC=-.5160
+07:25:32: RSF: RQ20
+07:25:32: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu049.bt9  Apr  2 2011 07:25
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.516, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu049.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:33:07: RSF: BUFOPQ20HC=-.5180
+07:33:07: RSF: RQ20
+07:33:07: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu050.bt9  Apr  2 2011 07:33
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.518, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu050.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:40:45: RSF: BUFOPQ20HC=-.5000
+07:40:45: RSF: RQ20
+07:40:45: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu051.bt9  Apr  2 2011 07:40
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.500, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu051.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:48:24: RSF: BUFOPQ20HC=-.4960
+07:48:24: RSF: RQ20
+07:48:24: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu052.bt9  Apr  2 2011 07:48
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.496, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu052.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+07:56:03: RSF: BUFOPQ20HC=-.4920
+07:56:03: RSF: RQ20
+07:56:03: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu053.bt9  Apr  2 2011 07:56
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.492, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu053.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:03:40: RSF: BUFOPQ20HC=-.5080
+08:03:40: RSF: RQ20
+08:03:40: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu054.bt9  Apr  2 2011 08:03
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu054.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:11:16: RSF: BUFOPQ20HC=-.5080
+08:11:16: RSF: RQ20
+08:11:16: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu055.bt9  Apr  2 2011 08:11
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.508, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu055.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:18:51: RSF: BUFOPQ20HC=-.4880
+08:18:51: RSF: RQ20
+08:18:51: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu056.bt9  Apr  2 2011 08:18
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.488, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu056.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:26:30: RSF: BUFOPQ20HC=-.4800
+08:26:30: RSF: RQ20
+08:26:30: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu057.bt9  Apr  2 2011 08:26
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.480, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu057.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:34:08: RSF: BUFOPQ20HC=-.4840
+08:34:08: RSF: RQ20
+08:34:08: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu058.bt9  Apr  2 2011 08:34
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.484, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu058.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:41:46: RSF: BUFOPQ20HC=-.4860
+08:41:46: RSF: RQ20
+08:41:46: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu059.bt9  Apr  2 2011 08:41
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.486, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu059.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:49:23: RSF: BUFOPQ20HC=-.4900
+08:49:23: RSF: RQ20
+08:49:23: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu060.bt9  Apr  2 2011 08:49
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.490, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu060.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+08:56:59: RSF: BUFOPQ20HC=-.4980
+08:56:59: RSF: RQ20
+08:56:59: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu061.bt9  Apr  2 2011 08:56
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.498, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu061.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:04:38: RSF: BUFOPQ20HC=-.4820
+09:04:38: RSF: RQ20
+09:04:38: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu062.bt9  Apr  2 2011 09:04
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.482, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu062.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:12:16: RSF: BUFOPQ20HC=-.5020
+09:12:16: RSF: RQ20
+09:12:16: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu063.bt9  Apr  2 2011 09:12
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.502, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu063.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:19:52: RSF: BUFOPQ20HC=-.5040
+09:19:52: RSF: RQ20
+09:19:52: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu064.bt9  Apr  2 2011 09:19
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.504, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu064.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:27:29: RSF: BUFOPQ20HC=-.5060
+09:27:29: RSF: RQ20
+09:27:29: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu065.bt9  Apr  2 2011 09:27
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.506, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu065.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:35:05: RSF: BUFOPQ20HC=-.4700
+09:35:05: RSF: RQ20
+09:35:05: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu066.bt9  Apr  2 2011 09:35
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.470, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu066.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:42:44: RSF: BUFOPQ20HC=-.4720
+09:42:44: RSF: RQ20
+09:42:44: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu067.bt9  Apr  2 2011 09:42
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.472, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu067.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:50:19: RSF: BUFOPQ20HC=-.4740
+09:50:19: RSF: RQ20
+09:50:19: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu068.bt9  Apr  2 2011 09:50
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.474, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu068.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+09:57:55: RSF: BUFOPQ20HC=-.4760
+09:57:55: RSF: RQ20
+09:57:55: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu069.bt9  Apr  2 2011 09:57
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.476, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu069.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:05:33: RSF: BUFOPQ20HC=-.4780
+10:05:33: RSF: RQ20
+10:05:33: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu070.bt9  Apr  2 2011 10:05
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.478, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu070.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:13:11: RSF: BUFOPQ20HC=-.5100
+10:13:11: RSF: RQ20
+10:13:11: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu071.bt9  Apr  2 2011 10:13
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.510, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu071.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:20:48: RSF: BUFOPQ20HC=-.5120
+10:20:48: RSF: RQ20
+10:20:48: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu072.bt9  Apr  2 2011 10:20
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.512, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu072.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:28:25: RSF: BUFOPQ20HC=-.5140
+10:28:25: RSF: RQ20
+10:28:25: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu073.bt9  Apr  2 2011 10:28
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.514, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu073.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:36:02: RSF: BUFOPQ20HC=-.5160
+10:36:02: RSF: RQ20
+10:36:02: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu074.bt9  Apr  2 2011 10:36
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.516, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu074.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:43:39: RSF: BUFOPQ20HC=-.5180
+10:43:40: RSF: RQ20
+10:43:40: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu075.bt9  Apr  2 2011 10:43
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.518, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu075.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:51:16: RSF: BUFOPQ20HC=-.5000
+10:51:16: RSF: RQ20
+10:51:16: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu076.bt9  Apr  2 2011 10:51
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.500, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu076.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+10:58:55: RSF: BUFOPQ20HC=-.4960
+10:58:55: RSF: RQ20
+10:58:55: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu077.bt9  Apr  2 2011 10:58
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.496, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu077.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+11:06:33: RSF: BUFOPQ20HC=-.4920
+11:06:33: RSF: RQ20
+11:06:33: /home/NCNRWIN/bt9/ylem/BiFeO3film/Mar27_2011/meshu078.bt9  Apr  2 2011 11:06
+ QBuffer 20:  meshu 40-PG-10-S-40 -PG-200  triple  axis L020911
+ E-center =  0.0000  E-step =  0.0000     Analyzer fixed at  14.700 meV
+ Q-center = (-0.492, 0.496, 0.496)      Q-step = (0.0000,0.0020,0.0020)
+ Temp  = .00000  Inc-T= .00000  T-Err= 10.   T-wait=   0 min  HField=     0.0000
+ Monitor=   50000  Prefac=   1  Type= NEUT  #pts =  13    Datafile: meshu078.bt9
+ Fixed motors:   A1=  20.589  A2=  41.177  A5=  20.590  A6=  41.179
+11:08:40:  **** ABORT during count ****
+11:08:40:   Request aborted by Contrl_A
+11:08:40:  Sequence terminated by control A
+11:08:43: DQ 0,1,1
+11:08:43: Parameters used:   3.9091 3.9091 3.9091     011    100
+11:08:43:                    90.000 90.000 90.000
+11:08:43: Driving to Q = ( 0.0000, 1.0000, 1.0000)    A3=  25.259  A4=  50.518
+11:09:17: PA
+ Soft: A01=  20.589  A02=  41.177  A03=  25.259  A04=  50.518  A05=  20.590
+ Hard: A01=  20.707  A02=  41.177  A03=  25.359  A04=  50.518  A05=  20.746
+ Soft: A06=  41.179  A07=   5.807  A08=   5.162  A09=   0.000  A10=   0.000
+ Hard: A06=  41.393  A07=   5.807  A08=   5.162  A09=   0.000  A10=   0.000
+ Soft: A11=   0.000  A12=   0.000  A13=   0.000  A14=  30.000  A15=  30.000
+ Hard: A11=   0.000  A12=   0.000  A13=   0.000  A14=  30.000  A15=  29.999
+ Soft: A24=   6.237  A25=   5.162
+ Hard: A24=   6.237  A25=   5.162
+11:14:51: D7=0; D8=0
+11:17:13:  
+11:17:23: EXIT

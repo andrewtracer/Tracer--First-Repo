@@ -1,0 +1,35 @@
+#Data input file for angleCalculator.
+#WARNING: editing this file may result in a loss of data when loaded or a complete failure to load.
+ 
+#Mode
+Scattering Plane
+ 
+#a b c alpha beta gamma wavelength
+3.9091,3.9091,3.9091,90,90,90,2.35916
+ 
+#Observations h k l twotheta theta chi phi
+0,0,1,35.125764111,15.555,81.8,0.001
+1,0,0,35.125764111,17.563,-4.67,45.876
+#End observations
+ 
+#UBmatrix
+yes
+1.11688027065,-1.13294881131,0.229110954651,1.14961295893,1.12192041187,-0.0563117364479,-0.120228462779,0.202997433336,1.58991305937
+ 
+#Scattering Plane Vectors h k l
+1,1,1
+1,-1,0
+ 
+#Fixed Phi Value
+ 
+ 
+#Desired h k l twotheta theta omega chi phi
+1,1,1,63.0204007604,18.1951485286,-13.3150518517,38.1283142925,101.251206213
+1,1,0,Invalid,Vector!,Not in,Scattering,Plane.
+-1,1,1,Invalid,Vector!,Not in,Scattering,Plane.
+-1,-1,1,Invalid,Vector!,Not in,Scattering,Plane.
+-1,-1,-1,63.0204007604,198.195149205,166.684948824,38.1283142925,101.251206213
+1,-1,0,50.5219810685,-78.0540606416,-103.315051176,38.1283142925,101.251206213
+0,2,1,84.8677245976,68.3503312317,25.9164689329,38.1283142925,101.251206213
+-1,-1,-1,63.0204007604,198.195149205,166.684948824,38.1283142925,101.251206213
+#End desired

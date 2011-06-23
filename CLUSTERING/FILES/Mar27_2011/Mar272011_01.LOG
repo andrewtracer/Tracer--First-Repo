@@ -1,0 +1,18 @@
+10:50:07: FP4,3,.2,-1
+ File created: fpx04001.bt9
+ Find_peak:  Mar 27 2011 10:50
+ Angle no =  4,  Range = [  -1.401 ...   1.599 ],  Step =   0.200, Mon =      -1
+ Peak found at   -0.001  with an intensity of       1411
+  Fit Results:   BG =     22.925
+             Height =   1393.592
+                Pos =      0.0591
+              Width =      0.9648
+ Driving to fitted peak position!
+10:52:05: PA4
+ Soft: A04=   0.058
+ Hard: A04=   0.058
+10:52:07: SET4=0
+10:52:08: PA4
+ Soft: A04=   0.000
+ Hard: A04=   0.058
+10:52:11: EXIT

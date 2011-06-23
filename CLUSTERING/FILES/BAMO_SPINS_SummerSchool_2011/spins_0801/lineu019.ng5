@@ -1,0 +1,13 @@
+'lineu019.ng5' 'Jan 30 2008 12:05' 'Q'          1.    1  'TIME'    1  'RAW'
+  Filename         Date            Scan       Mon    Prf  Base   #pts  Type
+lineup -- 1bar 2 0                                
+   0   0   0   0       0  0  0         1  0  0  60.000     0  1  0
+ Collimation        Mosaic              Xstal Orientation
+     5.685     5.685    21.440    90.000    90.000   120.000
+Lattice Parameters in real space
+     0.000     0.000        5.000        3.354   3.354      0.00000   0.00000
+    E center  Delta E      EA fixed      M-dsp   A-dsp     Tmp strt   Tmp inc
+ -1.000   2.000   0.000    0.1000  0.0000  0.0000      0.0000
+   Q (hkl scan center)        Delta Q (hkl)            Hfield
+    Q(x)    Q(y)    Q(z)     E       T-act    min       Counts
+ -1.0000  2.0000  0.0000   0.0000  1.65000    0.02           0

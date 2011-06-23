@@ -1,0 +1,16 @@
+'bamno001.ng5' 'Jan 29 2008 15:22' 'Q'     687000.    2  'NEUT'   31  'RAW'
+  Filename         Date            Scan       Mon    Prf  Base   #pts  Type
+bamno - guide-mono-open-s-be-80-3blades-det       
+   0   0   0   0       0  0  0         1  0  0  60.000     0  0  1
+ Collimation        Mosaic              Xstal Orientation
+     5.685     5.685    21.440    90.000    90.000   120.000
+Lattice Parameters in real space
+     2.000     0.100        5.000        3.354   3.354      0.00000   0.00000
+    E center  Delta E      EA fixed      M-dsp   A-dsp     Tmp strt   Tmp inc
+  1.000   0.000   0.000    0.0000  0.0000  0.0000      0.0000
+   Q (hkl scan center)        Delta Q (hkl)            Hfield
+    Q(x)    Q(y)    Q(z)     E       min       Counts
+  1.0000  0.0000  0.0000   0.5000    2.17           2
+  1.0000  0.0000  0.0000   0.6000    2.16           4
+  1.0000  0.0000  0.0000   0.7000    2.12           3
+  1.0000  0.0000  0.0000   0.8000    2.11           4
